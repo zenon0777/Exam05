@@ -9,4 +9,3 @@ class Fwoosh : public ASpell{
         virtual ASpell *clone() const;
 };
 
-#include "ASpell.hpp"
